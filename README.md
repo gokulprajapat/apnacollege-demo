@@ -1,3 +1,1 @@
-# apnacollege-demo
-This is my first repository
-Author - Gokul Prajapat
+# this is my local repo
